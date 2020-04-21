@@ -1,0 +1,60 @@
+	For Solution of this you can contact on electengg691@gmail.com
+		For Solution of this you can contact on electengg691@gmail.com
+		For Solution of this you can contact on electengg691@gmail.com
+
+Khalifa University 
+Department of Electrical and Computer Engineering
+ECE230 – Object Oriented Programming
+Individual Project-Java based application
+ Spring 2020
+Deadline: Sunday May 3rd, 2020 by 11:55PM 
+The project grade weight is 20% from your course grade.
+Description: 
+With the increasing demand for online shopping due to COVID 19 health precautions this year, most of the grocery providers are converting to online groceries. XYZ grocery requested that you design an online shopping application for them to allow their customers to register and do their shopping online. Then the products will be delivered to their home. For simplicity, it is to use cash upon the delivery as payment method. 
+The application should also allow the shop administrator to track his inventory to make sure that he has enough stock from all products all the time. 
+In this project, you will work to build a java based application for XYZ online Grocery using the Java Object Oriented Design. You are highly advised to apply the concepts you have learned in the course to design this project such as Classes Inheritance, interface, polymorphism, arrays, vectors, ..., etc.
+ For example you must have Admin Class and Customer class. Both will inherit from Person class. More classes can be added if you need.
+This application should fulfill the following functionalities:
+1.	Have 2 different levels of authentications; Admin and Customer.
+2.	Both Admin and Customer should have following attributes: name, user id, and password.
+3.	Admin can sign in and logout only. No sign up for admins. 
+		The name is “Ahmed Mahir” and the password is “AM1234”
+4.	Only Admin should be able to add and delete products from the grocery store.
+5.	Admin will specify the price of each item.
+6.	Admin should be able to track the inventory of the items he has in the store on a dashboard
+7.	A new customer has to register his name, password and phone number to be able to shop online from online Grocery.
+8.	All the customer’s information will be saved in a file.
+9.	The registered customer will be asked to login with his username and password before starting shopping.
+10.	Once logged in successfully, all the products with their sizes and prices will be listed to the user to select from.
+11.	The customer will specify the quantity of each product he want and add to his/her cart.
+12.	After the customer finish his product selection, he can display his in-cart list to review, remove a product, increase/decrease quantity of products or proceed to finalize his order.
+13.	When the customer click on Finish, a bill will be generated and saved in a file with the following details:
+	List of all the purchased products with their name, size, quantity and price 
+	Total price along with the VAT.
+	Current Date and time.
+	Customer name and phone number.
+	Thank you message to be at the foot of the bill.
+14.	All product inventory data must be updated accordingly.
+15.	You must use Jframes for designing your interface.
+
+At testing time make sure that:
+
+	You have registered 5 customers and around 20 products in the store with their quantities. While testing judges will try to add more products and more Customers from the console.
+
+Grading scheme:
+•	Class Diagram  with all the methods and attributes. (10%)
+•	Interface design of the application. 25%
+•	Functionality of the application. Make sure that all the above functionalities are included.  (40%)
+•	Usage of Classes Inheritance, interface, polymorphism, arrays, vectors,…etc., as much as applicable (at least 4). (15%)
+•	Report write up and screenshots. (10%)
+Group Size: 
+•	It is an individual project.  Any similar solutions worth zero as a grade.
+
+
+A list of deliverables
+•	Submit a full report that has introduction, objective, description of the problem, detailed class diagram and explanation of each class and method. Running cases with clear and enough screenshots and your original code in the appendix. 
+•	You should also submit your program as an executable windows application (.exe). You can visit this website to know how to do. https://www.wikihow.com/Create-an-Executable-File-from-Eclipse
+•	Submit a video shows your demonstration to the project.
+•	Penalty of -20% will be applied for every day late submission.
+•	Submissions will be on Moodle. Separate folder for each submission will be there
+
